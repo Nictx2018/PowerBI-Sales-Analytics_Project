@@ -10,9 +10,12 @@ This Power BI dashboard provides insights into **sales trends, top customers, an
 
 ---
 
-## **📸 Dashboard Screenshots**
+## **📸 Updated Dashboard Screenshots**
 #### 📊 Full Dashboard  
-![Dashboard](./PowerBI-Sales-Analytics_Project.png)
+![Updated Dashboard](./SAP%20Dashboard.png)
+
+#### 🗺️ USA Sales Map (Sales by Region)  
+![USA Sales Map](./SAP%20Map.png)
 
 #### 🏆 KPI Cards  
 ![KPIs](./SAP%20Cards.png)
