@@ -1,12 +1,14 @@
 # 📊 Power BI Sales Analytics Dashboard
 
 ### 🚀 Project Overview
-This Power BI dashboard provides insights into **sales trends, top customers, and product performance** using SQL Server data. It includes:
+This Power BI dashboard provides insights into **sales trends, top customers, product performance, and regional sales analysis** using **SQL Server, DAX, and Power BI**.
 
-- **📈 Monthly Sales Trends (Line Chart)**
-- **🛒 Best-Selling Products (Column Chart)**
-- **🏆 Top 5 Customers by Revenue (Table)**
-- **💰 Total Sales, Average Order Value, and Total Transactions (KPIs)**
+🔍 **Key Features:**
+✅ **Revenue Trend Over Time** 📈  
+✅ **Top-Selling Products Analysis** 🛒  
+✅ **Highest-Spending Customers** 💰  
+✅ **USA Sales Map (Sales by Region & State)** 🗺️  
+✅ **KPIs for Business Performance** 📊  
 
 ---
 
